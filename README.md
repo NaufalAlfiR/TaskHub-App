@@ -16,7 +16,7 @@ Mengusung tema **Aurora Misty Forest** (*Premium Dark Mode*) dengan elemen *Glas
 
 ## 📦 Cara Instalasi
 Karena *repository* ini berfokus pada hasil *build* akhir:
-1. Unduh file `TaskHub_Final_Naufal.apk` yang tersedia di *repository* ini.
+1. [⬇️ KLIK DI SINI UNTUK DOWNLOAD APK TASKHUB (Direct Link)](https://github.com/NaufalAlfiR/TaskHub-App/raw/main/TaskHub_Final_Naufal.apk)
 2. Buka file APK di *smartphone* Android Anda.
 3. Izinkan instalasi dari sumber tidak dikenal (*Install from unknown sources*) jika diminta.
 4. Buka aplikasi dan nikmati fitur TaskHub!
